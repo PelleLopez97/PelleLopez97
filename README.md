@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PelleLopez97
-- 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning Flutter but I guess I'll learn another framework in a few months
+I am a mobile developer who likes to learn new things every day, currently I work with projects in Flutter and use Java as Backend with Springboot framework.
 
-- 📫 How to reach me ... pellelopezleobardo97@gmail.com , pelle-xd@outlook.com
+I currently work at Softtek company supporting code vulnerabilities in PHP and JS following the OWASP recommendations.
+
+- 📫 How to reach me ... felix.lopez.leobardo.social@gmail.com , felix.lopez.leobardo.social@outlook.com
 
 <!---
 PelleLopez97/PelleLopez97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
